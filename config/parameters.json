@@ -1,0 +1,5 @@
+{
+    "pH_Environment": 5.5,
+    "ideal_lipid_ratio": {"ceramide": 3, "cholesterol": 1, "fatty_acids": 1},
+    "enzymes": ["KLK5", "KLK7", "GBA1"]
+}
